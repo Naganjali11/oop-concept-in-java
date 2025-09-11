@@ -10,8 +10,9 @@ public class GarbageTest {
 		obj=null;
 	System.out.println("Requesting the garbage collector");
 	System.gc();
-	System.out.println("End of the Mian Method");
+	System.out.println("End of the Mainn Method");
 
 	}
 
 }
+
